@@ -1,5 +1,5 @@
-const player = "O";
-const computer = "X";
+const player = "X";
+const computer = "O";
 
 let board_full = false;
 let play_board = ["", "", "", "", "", "", "", "", ""];
